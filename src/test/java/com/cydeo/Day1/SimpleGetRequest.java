@@ -19,6 +19,8 @@ public class SimpleGetRequest {
         //print response body
         response.prettyPrint();
 
+        System.out.println("değişiklik yapıldı");
+
 
     }
 
